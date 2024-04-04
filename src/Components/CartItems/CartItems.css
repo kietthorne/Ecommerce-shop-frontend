@@ -163,7 +163,7 @@
   }
 }
 
-@media(max-width:500px) {
+@media (max-width: 500px) {
   .cartitems-format-main {
     display: none;
     grid-template-columns: 0.5fr 3fr 0.5fr;
@@ -175,7 +175,6 @@
   }
 
   .cartitems-promobox button {
-    width: 80px;
-    margin-left: -125px;
+    width: 121px;
   }
 }
