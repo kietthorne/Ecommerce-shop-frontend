@@ -173,4 +173,9 @@
   .cartitems-format {
     display: grid;
   }
+
+  .cartitems-promobox button {
+    width: 80px;
+    margin-left: -125px;
+  }
 }
